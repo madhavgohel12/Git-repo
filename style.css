@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background: radial-gradient(rgb(79, 134, 155));
+    color: rgb(240, 244, 247);
+    padding: 0;
+    display:flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
